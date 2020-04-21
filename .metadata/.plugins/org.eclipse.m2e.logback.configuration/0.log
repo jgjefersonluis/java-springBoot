@@ -1,0 +1,123 @@
+2020-04-20 17:10:16,648 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-20 17:13:47,817 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\pom.xml.
+2020-04-20 17:13:49,645 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/main/java
+2020-04-20 17:13:49,645 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-04-20 17:13:49,654 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-04-20 17:13:49,664 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/test/java
+2020-04-20 17:13:50,574 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2020-04-20 17:13:50,577 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-20 17:13:51,231 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\pom.xml.
+2020-04-20 17:13:52,178 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/main/java
+2020-04-20 17:13:52,178 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-04-20 17:13:52,179 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-04-20 17:13:52,180 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/test/java
+2020-04-20 17:13:52,472 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-20 17:13:53,595 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:13:53,600 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:13:53,613 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:13:53,618 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:13:53,618 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 17:25:22,936 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-04-20 17:26:00,964 [Worker-13: Launching osworks-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api
+2020-04-20 17:26:00,968 [Worker-13: Launching osworks-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package -Dstyle.color=always
+2020-04-20 17:26:29,719 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2020-04-20 17:26:29,739 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0-sources.jar
+2020-04-20 17:26:29,757 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.6.3/maven-core-3.6.3-sources.jar
+2020-04-20 17:26:29,770 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.6.3/maven-model-3.6.3-sources.jar
+2020-04-20 17:26:29,785 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.6.3/maven-settings-3.6.3-sources.jar
+2020-04-20 17:26:29,797 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.6.3/maven-settings-builder-3.6.3-sources.jar
+2020-04-20 17:26:29,814 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.6.3/maven-builder-support-3.6.3-sources.jar
+2020-04-20 17:26:29,826 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.6.3/maven-repository-metadata-3.6.3-sources.jar
+2020-04-20 17:26:29,839 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3-sources.jar
+2020-04-20 17:26:29,852 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.6.3/maven-plugin-api-3.6.3-sources.jar
+2020-04-20 17:26:29,867 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.6.3/maven-model-builder-3.6.3-sources.jar
+2020-04-20 17:26:29,886 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-resolver-provider/3.6.3/maven-resolver-provider-3.6.3-sources.jar
+2020-04-20 17:26:29,901 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.4.1/maven-resolver-api-1.4.1-sources.jar
+2020-04-20 17:26:29,919 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-spi/1.4.1/maven-resolver-spi-1.4.1-sources.jar
+2020-04-20 17:26:29,935 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.4.1/maven-resolver-util-1.4.1-sources.jar
+2020-04-20 17:26:29,950 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1-sources.jar
+2020-04-20 17:26:29,961 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5-sources.jar
+2020-04-20 17:26:29,978 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android-sources.jar
+2020-04-20 17:26:30,005 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3-sources.jar
+2020-04-20 17:26:30,021 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1-sources.jar
+2020-04-20 17:26:30,037 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14-sources.jar
+2020-04-20 17:26:30,049 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.1/plexus-utils-3.2.1-sources.jar
+2020-04-20 17:26:30,063 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.0/plexus-component-annotations-2.1.0-sources.jar
+2020-04-20 17:26:30,077 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar
+2020-04-20 17:26:30,092 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.6.3/maven-embedder-3.6.3-sources.jar
+2020-04-20 17:26:30,118 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4-sources.jar
+2020-04-20 17:26:30,131 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2020-04-20 17:26:30,145 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2020-04-20 17:26:30,158 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.6.3/maven-compat-3.6.3-sources.jar
+2020-04-20 17:26:30,169 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25-sources.jar
+2020-04-20 17:26:30,180 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.3.4/wagon-provider-api-3.3.4-sources.jar
+2020-04-20 17:26:30,195 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2020-04-20 17:26:30,208 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.17.8/aether-connector-okhttp-0.17.8-sources.jar
+2020-04-20 17:26:30,237 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.14.1/okhttp-3.14.1-sources.jar
+2020-04-20 17:26:30,251 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.17.3/okio-1.17.3-sources.jar
+2020-04-20 17:26:30,267 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-impl/1.4.1/maven-resolver-impl-1.4.1-sources.jar
+2020-04-20 17:26:30,280 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-connector-basic/1.4.1/maven-resolver-connector-basic-1.4.1-sources.jar
+2020-04-20 17:26:30,293 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-wagon/1.4.1/maven-resolver-transport-wagon-1.4.1-sources.jar
+2020-04-20 17:26:30,305 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/3.3.4/wagon-file-3.3.4-sources.jar
+2020-04-20 17:26:30,320 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/hawtjni/hawtjni-runtime/1.16/hawtjni-runtime-1.16-sources.jar
+2020-04-20 17:26:30,333 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-freebsd32/1.8/jansi-freebsd32-1.8-sources.jar
+2020-04-20 17:26:30,347 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-freebsd64/1.8/jansi-freebsd64-1.8-sources.jar
+2020-04-20 17:26:30,360 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-linux32/1.8/jansi-linux32-1.8-sources.jar
+2020-04-20 17:26:30,372 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-linux64/1.8/jansi-linux64-1.8-sources.jar
+2020-04-20 17:26:30,384 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-native/1.8/jansi-native-1.8-sources.jar
+2020-04-20 17:26:30,395 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-osx/1.8/jansi-osx-1.8-sources.jar
+2020-04-20 17:26:30,406 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-windows32/1.8/jansi-windows32-1.8-sources.jar
+2020-04-20 17:26:30,417 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi-windows64/1.8/jansi-windows64-1.8-sources.jar
+2020-04-20 17:26:30,426 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.17.1/jansi-1.17.1-sources.jar
+2020-04-20 17:26:30,438 [Worker-17: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2020-04-20 17:27:04,016 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-20 17:27:04,280 [Worker-13: Launching osworks-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api
+2020-04-20 17:27:04,280 [Worker-13: Launching osworks-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package -Dstyle.color=always
+2020-04-20 17:27:59,961 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-04-20 17:28:37,782 [Worker-16: Launching osworks-api (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api
+2020-04-20 17:28:37,782 [Worker-16: Launching osworks-api (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package -Dstyle.color=always
+2020-04-20 17:39:45,979 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:39:45,982 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:39:45,985 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:39:45,989 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:39:45,989 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 17:40:40,807 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:40:40,809 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:40:40,811 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:40:40,814 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:40:40,814 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 17:41:06,294 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:41:06,295 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:41:06,298 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:41:06,300 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:41:06,300 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 17:41:08,738 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:41:08,739 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:41:08,741 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:41:08,744 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:41:08,744 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 17:42:47,536 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:42:47,539 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:42:47,543 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:42:47,546 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:42:47,546 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 17:44:33,418 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:44:33,420 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:44:33,423 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:44:33,426 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:44:33,426 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 17:45:00,674 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:45:00,676 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:45:00,678 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:45:00,682 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:45:00,682 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 17:49:42,005 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:49:42,007 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 17:49:42,009 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 17:49:42,011 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 17:49:42,011 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
+2020-04-20 18:02:34,723 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 18:02:34,725 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 18:02:34,727 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-20 18:02:34,730 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 18:02:34,730 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JefersonWorkSpace2020\SpringBoot\WorkSpace\osworks-api\src\test\resources
